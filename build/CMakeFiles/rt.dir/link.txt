@@ -1,0 +1,1 @@
+/usr/bin/c++   -fopenmp -std=c++14 -O3 -g -pthread -mavx2 -w -g -lm   CMakeFiles/rt.dir/src/rt.cpp.o  -o rt 
